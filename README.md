@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CampusRepo — Student & Faculty Project Repository Dashboard
 
 A responsive React.js + Tailwind CSS dashboard for an online student project
@@ -88,3 +89,6 @@ src/
   parsed, since this is a frontend-only demo.
 - Fully responsive: the sidebar collapses into a slide-in drawer below the
   `lg` breakpoint, and all tables/grids reflow for mobile.
+=======
+# Campus-Repo
+>>>>>>> fcd0ee3af6d655c49ea953ee3176ea0dda0ea226
